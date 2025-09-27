@@ -13,5 +13,5 @@ export const modDefinitionSchema = z.object({
   }),
   repository: z.url().optional(),
   issues: z.url().optional(),
-  tags: z.array(z.enum(["texture-swap", "model"])),
+  tags: z.array(z.enum(["texture-swap", "model", "misc"])),
 });
