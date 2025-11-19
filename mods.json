@@ -21,7 +21,7 @@
     "files": [
       {
         "guid": "3d992eb4-99a8ea92-c8c456a1-01d68dd3",
-        "source": "player_icon_pumpkin_half.png.import",
+        "source": "raw:///player_icon_pumpkin_half.png.import",
         "target": "/out/data/custom_icon/icon_pumpkin_half.png.import"
       }
     ]
