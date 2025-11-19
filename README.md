@@ -6,7 +6,7 @@ The `mods.json` file in the root of this repository is the central source of tru
 
 ---
 
-## 📥 How to Add Your Mod
+## How to Add Your Mod
 
 We welcome all mod creators! To get your mod included in the official list, you must submit a **Pull Request (PR)**.
 
@@ -69,7 +69,7 @@ We welcome all mod creators! To get your mod included in the official list, you 
 
 ---
 
-## ⚙️ For Maintainers Only
+## For Maintainers Only
 
 After merging one or more Pull Requests that add new mods, the central `mods.json` list must be regenerated.
 
