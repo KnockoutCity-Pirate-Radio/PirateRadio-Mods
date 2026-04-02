@@ -14,6 +14,7 @@
   },
   "repository": "https://github.com/yourusername/yourmod",
   "issues": "https://github.com/yourusername/yourmod/issues",
+  "readme": "https://raw.githubusercontent.com/yourusername/yourmod/main/README.md",
   "tags": [
     "texture-swap",
     "misc"

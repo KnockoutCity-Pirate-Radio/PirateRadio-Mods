@@ -21,6 +21,7 @@ export const modDefinitionSchema = z.object({
   }),
   repository: z.url().optional(),
   issues: z.url().optional(),
+  readme: z.url().optional(),
   tags: z.array(z.enum(["texture-swap", "misc"])),
 
   files: z.array(modFileDefinitionSchema),
