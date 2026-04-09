@@ -1,6 +1,6 @@
 {
   "specification": 1,
-  "id": "218e1789-71f0-48b8-8ab1-6ac370ea579b",
+  "id": "9cd3db35-55e1-4247-8c87-06557499cc35",
   "name": "Beta Ball",
   "description": "A simple re-texture of the basic ball to show the beta player icon on it",
   "version": "1.0.0",
@@ -9,7 +9,7 @@
   ],
   "download": {
     "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/raw/refs/heads/main/mods/ball-beta/ball-beta.zip",
-    "sha256": "e2409a6b37c680bf15b5e46e685deea5d8682423f1c6ee07a737b62cb966dbb9"
+    "sha256": "f0a2eb5b53353db6afd9b46fa919515b0ef06e5ddf65cad882378bcfef4174c8"
   },
   "repository": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods",
   "issues": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/issues",
