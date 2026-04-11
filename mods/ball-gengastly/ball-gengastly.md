@@ -1,4 +1,4 @@
-# Bubblegum Gengastly Ball
+# Gengastly Ball
 
 A simple re-texture of the basic ball to show the faces of Gengar and Gastly
 
