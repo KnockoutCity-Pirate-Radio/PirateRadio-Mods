@@ -4,7 +4,7 @@
 
   "id": "5752ce85-1f7c-4653-89be-f1fdbba0c2f0",
   "name": "ball-SCP",
-  "description": "A custom mod for the Basic ball replacing the jpg data from the basic ball.",
+  "description": "A custom mod for the Basic ball replacing the normal image with the logo of the SCP Foundation.",
   "version": "1.0.0",
   "authors": ["shorevomofen"],
   "download": {
