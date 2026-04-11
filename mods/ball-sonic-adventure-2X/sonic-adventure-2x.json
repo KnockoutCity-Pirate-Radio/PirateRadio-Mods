@@ -2,7 +2,7 @@
   "specification": 1,
   "id": "311b2c35-64ee-4cca-adfe-d0ffff67a46a",
   "name": "Sonic Adventure 2X Ball",
-  "description": "A simple re-texture of the basic ball to show the icons of Sonic and Shadow",
+  "description": "A simple re-texture of the basic ball that adds the icons of Sonic and Shadow",
   "version": "1.0.0",
   "authors": [
     "GoldenBug"
