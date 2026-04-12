@@ -1,6 +1,39 @@
 [
   {
     "specification": 1,
+    "id": "6b853704-9fae-4c69-8a84-f44fd36a1fbd",
+    "name": "Seven-Star Dragon Ball",
+    "description": "A mod that changes the color scheme of the basic ball to look like the 7 star dragon ball ",
+    "version": "1.0.0",
+    "authors": [
+      "GoldenBug"
+    ],
+    "download": {
+      "url": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/raw/refs/heads/main/mods/ball-7-star-dragonball/ball-seven-star-dragon-ball.zip",
+      "sha256": "748b32827f7ee45a603f8133109a0653fb7d7ab97c6f08e7ddef27e057a05167"
+    },
+    "repository": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods",
+    "issues": "https://github.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/issues",
+    "readme": "https://raw.githubusercontent.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/refs/heads/main/mods/ball-7-star-dragonball/ball-seven-star-dragon-ball.md",
+    "tags": [
+      "texture-swap",
+      "misc"
+    ],
+    "files": [
+      {
+        "guid": "de76b040-345083a0-9065c1b1-01d56332",
+        "source": "texture:///albedo_0_modified.png",
+        "target": "/out/data/ball/basic_ball_albedo.png.import"
+      },
+      {
+        "guid": "de76b040-345083a0-94c975f1-01d56332",
+        "source": "texture:///normals_0_modified.png",
+        "target": "/out/data/ball/basic_ball_normals.png.import"
+      }
+    ]
+  },
+  {
+    "specification": 1,
     "id": "9cd3db35-55e1-4247-8c87-06557499cc35",
     "name": "Beta Ball",
     "description": "A simple re-texture of the basic ball to show the beta player icon on it",
