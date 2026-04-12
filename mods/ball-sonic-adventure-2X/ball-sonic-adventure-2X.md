@@ -1,6 +1,6 @@
 # Sonic Adventure 2X Ball
 
-A simple re-texture of the basic ball to show the beta player icon on it.
+"Faker? Hah, you're not even good enough to be my fake!" "I'll make you eat those words!". This mod adds Sonic and Shadows icons to the basic dodgeball. 
 
 ![Sonic Adventure 2X Ball](https://raw.githubusercontent.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/refs/heads/main/mods/ball-sonic-adventure-2X/ball-sonic-adventure-2X.png)
 
